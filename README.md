@@ -9,7 +9,7 @@ A ideia do nosso site é trabalhar com um sistema de anúncio de veículos prát
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Daniel](github.com/danielhinsching)
+<a href="github.com/danielhinsching">-Daniel</a>
 - [Luís](github.com/luisc5martins)
 - [Pedro](github.com/luisc5martins)
 
